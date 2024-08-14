@@ -1,0 +1,11 @@
+query GetPersonQuery($personId: ID) {
+    person(id: $personId) {
+        id,
+        name,
+        height,
+        mass,
+        homeworld {
+            name
+        }
+    }
+}

@@ -1,0 +1,13 @@
+query GetPeopleQuery {
+    allPeople {
+        people {
+            id
+            name
+            height
+            mass
+            homeworld {
+                name
+            }
+        }
+    }
+}
