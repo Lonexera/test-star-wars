@@ -6,6 +6,8 @@ Supports Android 9+
 
 Requires network connection to work properly
 
+## Demo
+The apk build of the app can be found here: [0.1 release](https://github.com/Lonexera/test-star-wars/releases/tag/0.1)
 ![app](screenshots/app_screens.png)
 
 ## Architecture
